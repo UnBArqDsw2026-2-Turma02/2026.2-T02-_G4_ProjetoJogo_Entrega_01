@@ -1,0 +1,1 @@
+# 2026.2-T02-_G4_ProjetoJogo_Entrega_01
