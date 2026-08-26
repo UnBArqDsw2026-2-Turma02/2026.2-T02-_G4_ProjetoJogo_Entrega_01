@@ -1,41 +1,31 @@
 # RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
+Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
+## Introdução
 
-**!! *Exemplo de título correto: 2026.2(T02)_G1_ProjetoComercioEletronico_Entrega_01*. !!** 
- 
- (Apague esses comentários)
+Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
 
-# Nome do Projeto
+## Tecnologia
 
-**Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
-**Entrega**: 01<br>
+A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
 
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+```shell
+"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
+```
 
-## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+### Instalando o docsify
 
-## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+Execute o comando:
 
-## Há algo a ser executado?
+```shell
+npm i docsify-cli -g
+```
 
-( ) SIM
+### Executando localmente
 
-( ) NÃO
+Para iniciar o site localmente, utilize o comando:
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+```shell
+docsify serve ./docs
+```
