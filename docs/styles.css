@@ -1,0 +1,222 @@
+:root {
+  --ads-bg: #f6f8fb;
+  --ads-surface: #ffffff;
+  --ads-surface-soft: #f8fafc;
+  --ads-text: #172033;
+  --ads-muted: #5b6472;
+  --ads-border: #e1e7ef;
+  --ads-accent: #1f7a5a;
+  --ads-accent-strong: #145c43;
+  --ads-accent-soft: #e9f6f0;
+  --ads-shadow: 0 14px 34px rgba(23, 32, 51, 0.08);
+}
+
+body {
+  background: var(--ads-bg);
+  color: var(--ads-text);
+}
+
+.app-name {
+  padding: 18px 18px 8px;
+}
+
+.app-name-link {
+  color: var(--ads-text) !important;
+  font-size: 18px;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+.sidebar {
+  border-right: 1px solid var(--ads-border);
+  background:
+    linear-gradient(180deg, #ffffff 0%, #f8fafc 58%, #eef6f2 100%);
+}
+
+.sidebar-nav {
+  padding: 8px 14px 28px;
+}
+
+.sidebar ul,
+.sidebar li {
+  margin: 0;
+}
+
+.sidebar li {
+  position: relative;
+}
+
+.sidebar ul li a {
+  display: block;
+  margin: 2px 0;
+  padding: 8px 10px;
+  border-radius: 8px;
+  color: #394252;
+  font-size: 14px;
+  line-height: 1.35;
+  text-decoration: none;
+  transition:
+    background 160ms ease,
+    color 160ms ease,
+    transform 160ms ease;
+}
+
+.sidebar ul li a:hover {
+  background: var(--ads-accent-soft);
+  color: var(--ads-accent-strong);
+  transform: translateX(2px);
+  text-decoration: none;
+}
+
+.sidebar ul li.active > a {
+  background: var(--ads-accent-soft);
+  color: var(--ads-accent-strong);
+  font-weight: 800;
+}
+
+.sidebar-nav > ul > li {
+  margin: 8px 0;
+}
+
+.sidebar-nav > ul > li > strong {
+  display: block;
+  margin: 18px 0 7px;
+  padding: 0 10px;
+  color: var(--ads-accent-strong);
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.sidebar-nav > ul > li > ul {
+  margin: 0 0 0 4px;
+  padding-left: 8px;
+  border-left: 1px solid #dce5ee;
+}
+
+.content {
+  padding-top: 18px;
+}
+
+.markdown-section {
+  max-width: 1040px;
+  padding: 32px 42px 56px;
+  color: var(--ads-text);
+}
+
+.markdown-section h1 {
+  margin-bottom: 18px;
+  color: var(--ads-text);
+  font-size: 38px;
+  font-weight: 850;
+  letter-spacing: 0;
+}
+
+.markdown-section h2 {
+  margin-top: 38px;
+  color: var(--ads-text);
+  font-size: 27px;
+  font-weight: 800;
+}
+
+.markdown-section h3 {
+  color: var(--ads-text);
+  font-weight: 800;
+}
+
+.markdown-section p,
+.markdown-section li {
+  color: #374151;
+  line-height: 1.72;
+}
+
+.markdown-section table {
+  display: table;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid var(--ads-border);
+  border-radius: 8px;
+  box-shadow: 0 8px 22px rgba(23, 32, 51, 0.05);
+}
+
+.markdown-section th {
+  background: #eef6f2;
+  color: #153f32;
+  font-weight: 800;
+}
+
+.markdown-section td,
+.markdown-section th {
+  border-color: var(--ads-border);
+}
+
+.markdown-section blockquote {
+  border-left: 4px solid var(--ads-accent);
+  border-radius: 0 8px 8px 0;
+  background: #f2faf6;
+  color: #264237;
+}
+
+.markdown-section a {
+  color: var(--ads-accent-strong);
+  font-weight: 650;
+}
+
+.home-hero,
+.team-group,
+.quick-link-group {
+  box-shadow: var(--ads-shadow);
+}
+
+.home-hero {
+  border-color: #d9e6df !important;
+  background:
+    radial-gradient(circle at 12% 10%, rgba(31, 122, 90, 0.10), transparent 30%),
+    linear-gradient(135deg, #ffffff 0%, #f2f8f5 100%) !important;
+}
+
+.home-kicker {
+  color: var(--ads-accent-strong) !important;
+}
+
+.home-summary {
+  border-color: #d9e6df !important;
+}
+
+.team-group {
+  border-color: var(--ads-border) !important;
+}
+
+.member-card {
+  border-color: var(--ads-border) !important;
+  background:
+    linear-gradient(180deg, #ffffff 0%, #f8fafc 100%) !important;
+}
+
+.member-card:hover {
+  border-color: #8fc7ad !important;
+  box-shadow: 0 16px 28px rgba(23, 32, 51, 0.12) !important;
+}
+
+.quick-link-group {
+  border-color: var(--ads-border) !important;
+}
+
+.quick-link-group a {
+  border-color: #d7e5dc !important;
+}
+
+.quick-link-group a:hover {
+  background: var(--ads-accent-soft) !important;
+}
+
+@media (max-width: 768px) {
+  .markdown-section {
+    padding: 22px 18px 42px;
+  }
+
+  .markdown-section h1 {
+    font-size: 30px;
+  }
+}
