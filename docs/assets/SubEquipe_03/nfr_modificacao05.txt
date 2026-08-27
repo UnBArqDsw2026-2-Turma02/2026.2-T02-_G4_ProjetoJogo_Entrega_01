@@ -1,0 +1,810 @@
+{
+  "actors": [],
+  "orphans": [
+    {
+      "id": "6792fc35-7853-416b-92e3-f18307084e78",
+      "text": "Usabilidade [Aplicação]",
+      "type": "nfr.NFR",
+      "x": 1534,
+      "y": 43
+    },
+    {
+      "id": "fc4eb0ac-8ecc-4fbd-b314-465cd3b11c87",
+      "text": "Experiência Visual [Interface]",
+      "type": "nfr.NFR",
+      "x": 2320,
+      "y": 719
+    },
+    {
+      "id": "c57203f8-d910-46b7-ad94-56255a8890dd",
+      "text": "Engajamento [Usuário]",
+      "type": "nfr.NFR",
+      "x": 659,
+      "y": 393
+    },
+    {
+      "id": "4a126bcd-863e-4339-921f-444954b9efa2",
+      "text": "Aprendizabilidade [Aplicação]",
+      "type": "nfr.NFR",
+      "x": 1177,
+      "y": 276
+    },
+    {
+      "id": "55bff7f6-159c-40f6-8b5f-73b3c385dbbc",
+      "text": "Operabilidade [Aplicação]",
+      "type": "nfr.NFR",
+      "x": 1346,
+      "y": 311
+    },
+    {
+      "id": "697e59b9-0a0d-4870-91fe-932a7d75ae4b",
+      "text": "Feedback e Estética [Interface]",
+      "type": "nfr.NFR",
+      "x": 1612,
+      "y": 268
+    },
+    {
+      "id": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "text": "Motivação [Usuário]",
+      "type": "nfr.NFR",
+      "x": 327,
+      "y": 625
+    },
+    {
+      "id": "91ee1ac8-9c2c-4993-a872-6c4debb2796f",
+      "text": "Percepção de Progresso [Evolução]",
+      "type": "nfr.NFR",
+      "x": 908,
+      "y": 694
+    },
+    {
+      "id": "2027d06b-736f-4198-90cf-97ec11350566",
+      "text": "Personalização [Pet]",
+      "type": "nfr.NFR",
+      "x": 647,
+      "y": 685
+    },
+    {
+      "id": "f625297d-105b-41f8-817b-0c36e3d9e1e6",
+      "text": "Coerência Visual [Interface]",
+      "type": "nfr.NFR",
+      "x": 2445,
+      "y": 897
+    },
+    {
+      "id": "8707bfb3-427c-4178-8a9c-9398a9f95972",
+      "text": "Legibilidade [Interface]",
+      "type": "nfr.NFR",
+      "x": 2243,
+      "y": 899
+    },
+    {
+      "id": "6b47a0ba-234d-4b9e-899b-173d1f3eb814",
+      "text": "Streak",
+      "type": "nfr.Operationalization",
+      "x": 272,
+      "y": 897
+    },
+    {
+      "id": "bab88ccd-cd72-465a-b6c4-bb960191bc4c",
+      "text": "Conquistas",
+      "type": "nfr.Operationalization",
+      "x": 375,
+      "y": 863
+    },
+    {
+      "id": "0799a8f2-2312-4336-904d-94fa862dc25b",
+      "text": "Selos",
+      "type": "nfr.Operationalization",
+      "x": 178,
+      "y": 859
+    },
+    {
+      "id": "754ce954-76cb-4b01-919b-cd59e942e338",
+      "text": "Humor do pet",
+      "type": "nfr.Operationalization",
+      "x": 146,
+      "y": 684
+    },
+    {
+      "id": "a4ec49e8-02f5-494c-805c-b8b15d2b87a3",
+      "text": "Recompensas",
+      "type": "nfr.Operationalization",
+      "x": 138,
+      "y": 781
+    },
+    {
+      "id": "7d894b7b-9c85-40c0-8516-a6bcc8a31697",
+      "text": "Sistema de experiência (XP)",
+      "type": "nfr.Operationalization",
+      "x": 1099,
+      "y": 776
+    },
+    {
+      "id": "2684cf33-4577-41ad-93f1-f9e5e872699a",
+      "text": "Evolução do pet",
+      "type": "nfr.Operationalization",
+      "x": 932,
+      "y": 842
+    },
+    {
+      "id": "12be107a-3fb8-42b2-92e0-f09e45499540",
+      "text": "XP intelectual",
+      "type": "nfr.Operationalization",
+      "x": 1248,
+      "y": 799
+    },
+    {
+      "id": "e9eb2e3c-67f7-4695-a789-02fe88b7cf63",
+      "text": "XP atlético",
+      "type": "nfr.Operationalization",
+      "x": 1126,
+      "y": 954
+    },
+    {
+      "id": "aa5cabb7-cd3a-4693-b1f5-6bca29ab5936",
+      "text": "XP saúde",
+      "type": "nfr.Operationalization",
+      "x": 1016,
+      "y": 897
+    },
+    {
+      "id": "70788c61-84bd-4c8a-b53a-f6cd9c606d68",
+      "text": "XP geral",
+      "type": "nfr.Operationalization",
+      "x": 1225,
+      "y": 899
+    },
+    {
+      "id": "a04a7e3c-a069-454a-8731-b6afa1fa3b2d",
+      "text": "Loja",
+      "type": "nfr.Operationalization",
+      "x": 482,
+      "y": 771
+    },
+    {
+      "id": "f1522980-8c31-4a4a-a4d4-91f3a0426f18",
+      "text": "Acessórios",
+      "type": "nfr.Operationalization",
+      "x": 531,
+      "y": 843
+    },
+    {
+      "id": "2146b3f1-11de-49b6-afc9-09067885a00c",
+      "text": "Temas",
+      "type": "nfr.Operationalization",
+      "x": 680,
+      "y": 851
+    },
+    {
+      "id": "fe7fed0e-d284-42ec-99b7-1f7c76838304",
+      "text": "Roupas",
+      "type": "nfr.Operationalization",
+      "x": 591,
+      "y": 902
+    },
+    {
+      "id": "2e8502ff-9b46-453a-b568-44a9163844e3",
+      "text": "Check-in simplificado",
+      "type": "nfr.Operationalization",
+      "x": 1235,
+      "y": 480
+    },
+    {
+      "id": "701869f6-2058-4980-bbae-e58ada65d993",
+      "text": "Calendário integrado",
+      "type": "nfr.Operationalization",
+      "x": 998,
+      "y": 394
+    },
+    {
+      "id": "87b9f409-7ab7-4781-bfd0-80feb184c2cb",
+      "text": "Atalhos Pomodoro",
+      "type": "nfr.Operationalization",
+      "x": 1372,
+      "y": 510
+    },
+    {
+      "id": "f3b593ad-c9b3-4281-8991-083cdd2dbe01",
+      "text": "Eficiência [Interação]",
+      "type": "nfr.NFR",
+      "x": 1913,
+      "y": 248
+    },
+    {
+      "id": "df2a6d8a-41f8-4c65-b6d4-dffb8c69da23",
+      "text": "Tutorial Interativo",
+      "type": "nfr.Operationalization",
+      "x": 1078,
+      "y": 458
+    },
+    {
+      "id": "aaf9c835-96a8-4efa-baa2-3de463cea0b0",
+      "text": "Estado do Pet",
+      "type": "nfr.Operationalization",
+      "x": 1497,
+      "y": 383
+    },
+    {
+      "id": "14e5d36c-13e6-4c72-8f2d-c0fad79396f6",
+      "text": "Minimizar Ações Repetitivas",
+      "type": "nfr.Operationalization",
+      "x": 2004,
+      "y": 373
+    },
+    {
+      "id": "86189273-d08f-4ed3-96ec-d21e7ca57488",
+      "text": "Indicadores Visuais de Progresso",
+      "type": "nfr.Operationalization",
+      "x": 1691,
+      "y": 410
+    },
+    {
+      "id": "5a870955-8453-4bda-a418-2b32e5866db1",
+      "text": "Prazos",
+      "type": "nfr.Operationalization",
+      "x": 1655,
+      "y": 554
+    },
+    {
+      "id": "1b9b3ff8-7947-460c-98a3-266f23f69e5a",
+      "text": "Níveis",
+      "type": "nfr.Operationalization",
+      "x": 1776,
+      "y": 554
+    },
+    {
+      "id": "32f29239-5db7-4d91-bdbf-58b4e4baaeaa",
+      "text": "Automação de Ciclos",
+      "type": "nfr.Operationalization",
+      "x": 2193,
+      "y": 602
+    },
+    {
+      "id": "912246ea-2f2e-4f4b-998a-d25a6c208667",
+      "text": "Registro inteligente de hábitos",
+      "type": "nfr.Operationalization",
+      "x": 2040,
+      "y": 684
+    },
+    {
+      "id": "e76cc33d-1792-47c4-b1c1-06916d6fb36f",
+      "text": "Tags predefinidas",
+      "type": "nfr.Operationalization",
+      "x": 1899,
+      "y": 549
+    },
+    {
+      "id": "b8d8f99e-3607-4e67-b5bf-73c1d9cb115e",
+      "text": "Algoritmo de Decaimento de Status",
+      "type": "nfr.Operationalization",
+      "x": 602,
+      "y": 1087
+    },
+    {
+      "id": "1e83fa30-4e89-493a-a112-9c417c8a4111",
+      "text": "Motor de Regras de Evolução",
+      "type": "nfr.Operationalization",
+      "x": 857,
+      "y": 948
+    },
+    {
+      "id": "2c98d41e-5872-4d2c-87d3-11234a9b5222",
+      "text": "Sincronização de Atributos Usuário-Pet",
+      "type": "nfr.Operationalization",
+      "x": 1530,
+      "y": 527
+    },
+    {
+      "id": "new-renderizacao-pixel",
+      "text": "Renderização Pixel Perfect",
+      "type": "nfr.Operationalization",
+      "x": 2427,
+      "y": 1002
+    },
+    {
+      "id": "new-paleta-retro",
+      "text": "Paleta de Cores Retrô Limitada",
+      "type": "nfr.Operationalization",
+      "x": 2562,
+      "y": 991
+    },
+    {
+      "id": "new-fontes-pixel",
+      "text": "Fontes Pixeladas",
+      "type": "nfr.Operationalization",
+      "x": 2264,
+      "y": 1005
+    },
+    {
+      "id": "new-integer-scaling",
+      "text": "Escalonamento Inteiro",
+      "type": "nfr.Operationalization",
+      "x": 2101,
+      "y": 1000
+    },
+    {
+      "id": "new-sistema-desbloqueio",
+      "text": "Sistema de Desbloqueio Temático",
+      "type": "nfr.Operationalization",
+      "x": 838,
+      "y": 1067
+    }
+  ],
+  "dependencies": [],
+  "links": [
+    {
+      "id": "1fcc8d4d-52f6-4c6a-81a6-dc02e340b3bf",
+      "type": "nfr.AndRefinementLink",
+      "source": "55bff7f6-159c-40f6-8b5f-73b3c385dbbc",
+      "target": "6792fc35-7853-416b-92e3-f18307084e78"
+    },
+    {
+      "id": "60b311e4-dc2a-47a4-a05d-7b6fb3afd0ee",
+      "type": "nfr.AndRefinementLink",
+      "source": "4a126bcd-863e-4339-921f-444954b9efa2",
+      "target": "6792fc35-7853-416b-92e3-f18307084e78"
+    },
+    {
+      "id": "c7f937b1-f980-4b1c-95af-59e952d12726",
+      "type": "nfr.AndRefinementLink",
+      "source": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "target": "c57203f8-d910-46b7-ad94-56255a8890dd"
+    },
+    {
+      "id": "dd06e44e-841e-4dc2-a732-1f4cb02ce644",
+      "type": "nfr.AndRefinementLink",
+      "source": "2027d06b-736f-4198-90cf-97ec11350566",
+      "target": "c57203f8-d910-46b7-ad94-56255a8890dd"
+    },
+    {
+      "id": "f32dc723-7934-467e-b858-feb08ca0aa91",
+      "type": "nfr.AndRefinementLink",
+      "source": "91ee1ac8-9c2c-4993-a872-6c4debb2796f",
+      "target": "c57203f8-d910-46b7-ad94-56255a8890dd"
+    },
+    {
+      "id": "58672339-bd42-4c9e-b46e-5f6892cf6809",
+      "type": "nfr.AndRefinementLink",
+      "source": "8707bfb3-427c-4178-8a9c-9398a9f95972",
+      "target": "fc4eb0ac-8ecc-4fbd-b314-465cd3b11c87"
+    },
+    {
+      "id": "05d5b445-f62b-43b9-ae72-0573b17f584b",
+      "type": "nfr.AndRefinementLink",
+      "source": "f625297d-105b-41f8-817b-0c36e3d9e1e6",
+      "target": "fc4eb0ac-8ecc-4fbd-b314-465cd3b11c87"
+    },
+    {
+      "id": "a80b9f76-fc78-4d6b-a564-e248069fba1c",
+      "type": "nfr.ContributionLink",
+      "source": "bab88ccd-cd72-465a-b6c4-bb960191bc4c",
+      "target": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "label": "+"
+    },
+    {
+      "id": "8357a175-af44-42bf-9745-c1ef752aa738",
+      "type": "nfr.ContributionLink",
+      "source": "754ce954-76cb-4b01-919b-cd59e942e338",
+      "target": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "label": "+"
+    },
+    {
+      "id": "b58e6757-3904-4d18-a1c0-c5e569efefc6",
+      "type": "nfr.ContributionLink",
+      "source": "a4ec49e8-02f5-494c-805c-b8b15d2b87a3",
+      "target": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "label": "++"
+    },
+    {
+      "id": "dd57af5f-ce59-4f83-9b2c-0d4d771194cf",
+      "type": "nfr.ContributionLink",
+      "source": "0799a8f2-2312-4336-904d-94fa862dc25b",
+      "target": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "label": "+"
+    },
+    {
+      "id": "fa90220a-0824-4921-891f-546be3618595",
+      "type": "nfr.ContributionLink",
+      "source": "6b47a0ba-234d-4b9e-899b-173d1f3eb814",
+      "target": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "label": "++"
+    },
+    {
+      "id": "3e83315c-11cd-489a-9d61-071cd1f220f3",
+      "type": "nfr.AndRefinementLink",
+      "source": "aa5cabb7-cd3a-4693-b1f5-6bca29ab5936",
+      "target": "7d894b7b-9c85-40c0-8516-a6bcc8a31697"
+    },
+    {
+      "id": "6caca30c-f36b-4c3b-ab58-492a494834ff",
+      "type": "nfr.AndRefinementLink",
+      "source": "e9eb2e3c-67f7-4695-a789-02fe88b7cf63",
+      "target": "7d894b7b-9c85-40c0-8516-a6bcc8a31697"
+    },
+    {
+      "id": "614d554b-c747-42fc-a207-1a173631c519",
+      "type": "nfr.AndRefinementLink",
+      "source": "70788c61-84bd-4c8a-b53a-f6cd9c606d68",
+      "target": "7d894b7b-9c85-40c0-8516-a6bcc8a31697"
+    },
+    {
+      "id": "e43008e6-4c54-4c72-8e4b-a7c1e99fb802",
+      "type": "nfr.AndRefinementLink",
+      "source": "12be107a-3fb8-42b2-92e0-f09e45499540",
+      "target": "7d894b7b-9c85-40c0-8516-a6bcc8a31697"
+    },
+    {
+      "id": "3c9b43b2-ea0c-46cf-93bc-dbd992cf8e7a",
+      "type": "nfr.ContributionLink",
+      "source": "7d894b7b-9c85-40c0-8516-a6bcc8a31697",
+      "target": "91ee1ac8-9c2c-4993-a872-6c4debb2796f",
+      "label": "++"
+    },
+    {
+      "id": "bca51d66-72cc-4852-bef8-e5db54bba0e2",
+      "type": "nfr.ContributionLink",
+      "source": "2684cf33-4577-41ad-93f1-f9e5e872699a",
+      "target": "91ee1ac8-9c2c-4993-a872-6c4debb2796f",
+      "label": "++"
+    },
+    {
+      "id": "eb0dfd0d-032f-4b8d-913e-fc323112f72a",
+      "type": "nfr.ContributionLink",
+      "source": "fe7fed0e-d284-42ec-99b7-1f7c76838304",
+      "target": "2027d06b-736f-4198-90cf-97ec11350566",
+      "label": "+"
+    },
+    {
+      "id": "2bf28dfe-7931-4a88-ba9a-ef85c63b285f",
+      "type": "nfr.ContributionLink",
+      "source": "2146b3f1-11de-49b6-afc9-09067885a00c",
+      "target": "2027d06b-736f-4198-90cf-97ec11350566",
+      "label": "+"
+    },
+    {
+      "id": "d17327fe-f0f2-4bb3-94b6-9ed74ce65c1e",
+      "type": "nfr.ContributionLink",
+      "source": "f1522980-8c31-4a4a-a4d4-91f3a0426f18",
+      "target": "2027d06b-736f-4198-90cf-97ec11350566",
+      "label": "+"
+    },
+    {
+      "id": "94c20f62-c404-4718-b483-fef5e1839a88",
+      "type": "nfr.ContributionLink",
+      "source": "a04a7e3c-a069-454a-8731-b6afa1fa3b2d",
+      "target": "2027d06b-736f-4198-90cf-97ec11350566",
+      "label": "+"
+    },
+    {
+      "id": "87afdfa9-b773-431c-8d38-c45e6ba5b9a3",
+      "type": "nfr.AndRefinementLink",
+      "source": "f3b593ad-c9b3-4281-8991-083cdd2dbe01",
+      "target": "6792fc35-7853-416b-92e3-f18307084e78"
+    },
+    {
+      "id": "fca9f39d-9d04-4045-b7ce-9f241a8a156d",
+      "type": "nfr.ContributionLink",
+      "source": "2e8502ff-9b46-453a-b568-44a9163844e3",
+      "target": "55bff7f6-159c-40f6-8b5f-73b3c385dbbc",
+      "label": "++"
+    },
+    {
+      "id": "c54ec1a8-1b99-452a-9aef-6805b9654dbc",
+      "type": "nfr.ContributionLink",
+      "source": "87b9f409-7ab7-4781-bfd0-80feb184c2cb",
+      "target": "55bff7f6-159c-40f6-8b5f-73b3c385dbbc",
+      "label": "+"
+    },
+    {
+      "id": "97d51a39-6c8d-421e-94f7-9d315b6c47db",
+      "type": "nfr.ContributionLink",
+      "source": "701869f6-2058-4980-bbae-e58ada65d993",
+      "target": "4a126bcd-863e-4339-921f-444954b9efa2",
+      "label": "+"
+    },
+    {
+      "id": "159930c2-5d69-44b9-b4a1-5aff8c3be97d",
+      "type": "nfr.ContributionLink",
+      "source": "df2a6d8a-41f8-4c65-b6d4-dffb8c69da23",
+      "target": "4a126bcd-863e-4339-921f-444954b9efa2",
+      "label": "+"
+    },
+    {
+      "id": "5c1ce315-e2a1-4415-b526-4a7127542efb",
+      "type": "nfr.ContributionLink",
+      "source": "aaf9c835-96a8-4efa-baa2-3de463cea0b0",
+      "target": "697e59b9-0a0d-4870-91fe-932a7d75ae4b",
+      "label": "++"
+    },
+    {
+      "id": "03721182-44fd-4722-b185-b393e0914f1b",
+      "type": "nfr.ContributionLink",
+      "source": "14e5d36c-13e6-4c72-8f2d-c0fad79396f6",
+      "target": "f3b593ad-c9b3-4281-8991-083cdd2dbe01",
+      "label": "+"
+    },
+    {
+      "id": "27ae4444-ac11-403e-91d2-345a8243d361",
+      "type": "nfr.ContributionLink",
+      "source": "86189273-d08f-4ed3-96ec-d21e7ca57488",
+      "target": "697e59b9-0a0d-4870-91fe-932a7d75ae4b",
+      "label": "++"
+    },
+    {
+      "id": "8d545dca-8ea6-472e-ba1f-b697ce827c43",
+      "type": "nfr.ContributionLink",
+      "source": "1b9b3ff8-7947-460c-98a3-266f23f69e5a",
+      "target": "86189273-d08f-4ed3-96ec-d21e7ca57488",
+      "label": "++"
+    },
+    {
+      "id": "87619909-c116-4c75-9331-ce2b0ea523b2",
+      "type": "nfr.ContributionLink",
+      "source": "5a870955-8453-4bda-a418-2b32e5866db1",
+      "target": "86189273-d08f-4ed3-96ec-d21e7ca57488",
+      "label": "+"
+    },
+    {
+      "id": "943de15c-45da-4e4f-b0d7-c363ebd67b61",
+      "type": "nfr.ContributionLink",
+      "source": "912246ea-2f2e-4f4b-998a-d25a6c208667",
+      "target": "14e5d36c-13e6-4c72-8f2d-c0fad79396f6",
+      "label": "+"
+    },
+    {
+      "id": "bbdf4591-68bf-4fc2-b051-086f48a0f479",
+      "type": "nfr.AndRefinementLink",
+      "source": "697e59b9-0a0d-4870-91fe-932a7d75ae4b",
+      "target": "6792fc35-7853-416b-92e3-f18307084e78"
+    },
+    {
+      "id": "bb84afc7-dce5-4461-b6d1-862aff1a98fe",
+      "type": "nfr.ContributionLink",
+      "source": "e76cc33d-1792-47c4-b1c1-06916d6fb36f",
+      "target": "14e5d36c-13e6-4c72-8f2d-c0fad79396f6",
+      "label": "+"
+    },
+    {
+      "id": "e30f14d8-c64a-4421-a1e6-ef09c0d451b6",
+      "type": "nfr.CorrelationLink",
+      "source": "6792fc35-7853-416b-92e3-f18307084e78",
+      "target": "c57203f8-d910-46b7-ad94-56255a8890dd",
+      "label": "+"
+    },
+    {
+      "id": "a4cd43fe-cfb2-4d22-8df2-d02f03f56e92",
+      "type": "nfr.ContributionLink",
+      "source": "32f29239-5db7-4d91-bdbf-58b4e4baaeaa",
+      "target": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "label": "+"
+    },
+    {
+      "id": "e2cd04fa-5bb3-4f99-a9a7-9f1704e9c7bc",
+      "type": "nfr.ContributionLink",
+      "source": "912246ea-2f2e-4f4b-998a-d25a6c208667",
+      "target": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "label": "+"
+    },
+    {
+      "id": "f2c6ca10-0be1-4351-b847-f40a1b6a3b2e",
+      "type": "nfr.ContributionLink",
+      "source": "b8d8f99e-3607-4e67-b5bf-73c1d9cb115e",
+      "target": "91ee1ac8-9c2c-4993-a872-6c4debb2796f",
+      "label": "+"
+    },
+    {
+      "id": "6c3451ae-9340-4a41-b432-21405b778666",
+      "type": "nfr.AndRefinementLink",
+      "source": "1e83fa30-4e89-493a-a112-9c417c8a4111",
+      "target": "2684cf33-4577-41ad-93f1-f9e5e872699a"
+    },
+    {
+      "id": "8ee7faad-28ec-4fdb-b236-e20a382d2c91",
+      "type": "nfr.ContributionLink",
+      "source": "1e83fa30-4e89-493a-a112-9c417c8a4111",
+      "target": "2027d06b-736f-4198-90cf-97ec11350566",
+      "label": "++"
+    },
+    {
+      "id": "7d4562bf-0451-4b52-c543-32516c889777",
+      "type": "nfr.ContributionLink",
+      "source": "2c98d41e-5872-4d2c-87d3-11234a9b5222",
+      "target": "55bff7f6-159c-40f6-8b5f-73b3c385dbbc",
+      "label": "+"
+    },
+    {
+      "id": "8e5673c0-1562-4c63-d654-43627d990888",
+      "type": "nfr.ContributionLink",
+      "source": "2c98d41e-5872-4d2c-87d3-11234a9b5222",
+      "target": "697e59b9-0a0d-4870-91fe-932a7d75ae4b",
+      "label": "++"
+    },
+    {
+      "id": "4a12398c-7128-4829-9210-09283f556444",
+      "type": "nfr.CorrelationLink",
+      "source": "b8d8f99e-3607-4e67-b5bf-73c1d9cb115e",
+      "target": "79a1d05a-0a6d-4ff0-b3f9-05d8f308ba8f",
+      "label": "-"
+    },
+    {
+      "id": "49de6475-48b5-405c-bade-db287496dd34",
+      "type": "nfr.ContributionLink",
+      "source": "32f29239-5db7-4d91-bdbf-58b4e4baaeaa",
+      "target": "14e5d36c-13e6-4c72-8f2d-c0fad79396f6",
+      "label": "++"
+    },
+    {
+      "id": "link-render-coerencia",
+      "type": "nfr.ContributionLink",
+      "source": "new-renderizacao-pixel",
+      "target": "f625297d-105b-41f8-817b-0c36e3d9e1e6",
+      "label": "++"
+    },
+    {
+      "id": "link-paleta-coerencia",
+      "type": "nfr.ContributionLink",
+      "source": "new-paleta-retro",
+      "target": "f625297d-105b-41f8-817b-0c36e3d9e1e6",
+      "label": "+"
+    },
+    {
+      "id": "link-fontes-legibilidade",
+      "type": "nfr.ContributionLink",
+      "source": "new-fontes-pixel",
+      "target": "8707bfb3-427c-4178-8a9c-9398a9f95972",
+      "label": "++"
+    },
+    {
+      "id": "link-integer-legibilidade",
+      "type": "nfr.ContributionLink",
+      "source": "new-integer-scaling",
+      "target": "8707bfb3-427c-4178-8a9c-9398a9f95972",
+      "label": "+"
+    },
+    {
+      "id": "link-guarda-roupa-experiencia",
+      "type": "nfr.ContributionLink",
+      "source": "fe7fed0e-d284-42ec-99b7-1f7c76838304",
+      "target": "fc4eb0ac-8ecc-4fbd-b314-465cd3b11c87",
+      "label": "+"
+    },
+    {
+      "id": "link-xp-intel-desbloqueio",
+      "type": "nfr.ContributionLink",
+      "source": "12be107a-3fb8-42b2-92e0-f09e45499540",
+      "target": "new-sistema-desbloqueio",
+      "label": "+"
+    },
+    {
+      "id": "link-xp-atletico-desbloqueio",
+      "type": "nfr.ContributionLink",
+      "source": "e9eb2e3c-67f7-4695-a789-02fe88b7cf63",
+      "target": "new-sistema-desbloqueio",
+      "label": "+"
+    },
+    {
+      "id": "link-xp-saude-desbloqueio",
+      "type": "nfr.ContributionLink",
+      "source": "aa5cabb7-cd3a-4693-b1f5-6bca29ab5936",
+      "target": "new-sistema-desbloqueio",
+      "label": "+"
+    },
+    {
+      "id": "link-desbloqueio-guarda-roupa",
+      "type": "nfr.ContributionLink",
+      "source": "new-sistema-desbloqueio",
+      "target": "fe7fed0e-d284-42ec-99b7-1f7c76838304",
+      "label": "+"
+    }
+  ],
+  "display": {
+    "6792fc35-7853-416b-92e3-f18307084e78": {
+      "width": 111.83903503417969,
+      "height": 69.56843566894531
+    },
+    "fc4eb0ac-8ecc-4fbd-b314-465cd3b11c87": {
+      "width": 104.68952941894531,
+      "height": 66.56886291503906
+    },
+    "c57203f8-d910-46b7-ad94-56255a8890dd": {
+      "width": 98.14047241210938,
+      "height": 64.15293884277344
+    },
+    "4a126bcd-863e-4339-921f-444954b9efa2": {
+      "width": 114.7696533203125,
+      "height": 67
+    },
+    "697e59b9-0a0d-4870-91fe-932a7d75ae4b": {
+      "width": 99.40676879882812,
+      "height": 65.13607788085938
+    },
+    "91ee1ac8-9c2c-4993-a872-6c4debb2796f": {
+      "width": 103.13980102539062,
+      "height": 67.15232849121094
+    },
+    "fe7fed0e-d284-42ec-99b7-1f7c76838304": {
+      "width": 84.15826416015625,
+      "height": 61.05342102050781
+    },
+    "14e5d36c-13e6-4c72-8f2d-c0fad79396f6": {
+      "width": 100.95687866210938,
+      "height": 68.15187072753906
+    },
+    "86189273-d08f-4ed3-96ec-d21e7ca57488": {
+      "width": 111.40567016601562,
+      "height": 69.13497924804688
+    },
+    "32f29239-5db7-4d91-bdbf-58b4e4baaeaa": {
+      "width": 107.58926391601562,
+      "height": 70.76774597167969
+    },
+    "912246ea-2f2e-4f4b-998a-d25a6c208667": {
+      "width": 135.58657836914062,
+      "height": 78.7662353515625
+    },
+    "e76cc33d-1792-47c4-b1c1-06916d6fb36f": {
+      "width": 130.58718872070312,
+      "height": 68.76838684082031
+    },
+    "b8d8f99e-3607-4e67-b5bf-73c1d9cb115e": {
+      "width": 100.25683784484863,
+      "height": 59.137176513671875
+    },
+    "1e83fa30-4e89-493a-a112-9c417c8a4111": {
+      "width": 106.15618896484375,
+      "height": 70.05165100097656
+    },
+    "2c98d41e-5872-4d2c-87d3-11234a9b5222": {
+      "width": 98.95675659179688,
+      "height": 71.15122985839844
+    },
+    "new-renderizacao-pixel": {
+      "width": 108.15594482421875,
+      "height": 88.04774475097656
+    },
+    "new-paleta-retro": {
+      "width": 126.15423583984375,
+      "height": 86.04774475097656
+    },
+    "new-fontes-pixel": {
+      "width": 113.15545654296875,
+      "height": 77.04969787597656
+    },
+    "new-integer-scaling": {
+      "width": 127.15423583984375,
+      "height": 72.05104064941406
+    },
+    "new-sistema-desbloqueio": {
+      "width": 102.15655517578125,
+      "height": 73.05104064941406
+    },
+    "bb84afc7-dce5-4461-b6d1-862aff1a98fe": {
+      "vertices": [
+        {
+          "x": 2012,
+          "y": 473
+        }
+      ]
+    },
+    "link-xp-intel-desbloqueio": {
+      "vertices": [
+        {
+          "x": 1055,
+          "y": 985
+        }
+      ]
+    }
+  },
+  "tool": "dsm3-goals",
+  "metamodelVersion": "1.0",
+  "saveDate": "Thu, 27 Aug 2026 00:15:06 GMT",
+  "diagram": {
+    "width": 2727,
+    "height": 1615,
+    "name": "Revised NFR Model (v4 - Visual Experience added)",
+    "customProperties": {
+      "Description": "Added Pixel Art operationalizations and Cosmetic Wardrobe system decoupled from direct stat impacts."
+    }
+  }
+}
