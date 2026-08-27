@@ -8,6 +8,11 @@
   - [1.2. Participações - Base](/Base/1.2.ParticipacoesBase.md)
   - [1.3. Iniciativas Extras - Base](/Base/1.3.IniciativasExtras.md)
 
+- **Participações**
+  - [1.2.1. SubEquipe_01](/Base/Participações/1.2.1.SubEquipe_01.md)
+  - [1.2.2. SubEquipe_02](/Base/Participações/1.2.2.SubEquipe_02.md)
+  - [1.2.3. SubEquipe_03](/Base/Participações/1.2.3.SubEquipe_03.md)
+
 - **Relatórios**
   - [1.1.1. SubEquipe_01](/Base/Relatórios/1.1.1.SubEquipe_01.md)
   - [1.1.2. SubEquipe_02](/Base/Relatórios/1.1.2.SubEquipe_02.md)
