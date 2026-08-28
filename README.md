@@ -32,13 +32,17 @@ A equipe está organizada em três subgrupos. Cada subgrupo possui um relatório
 
 | Integrante | Matrícula | GitHub |
 |---|---:|---|
-| A preencher | A preencher | A preencher |
+| Arthur Mendes Borges | 241010914 | [@artmendess](https://github.com/artmendess) |
+| João Vitor Mendonça Merlin | 222006848 | [@jvopBR](https://github.com/jvopBR) |
+| Danilo Sarmento Barros | 222008468 | [@auslogyc](https://github.com/auslogyc) |
 
 ### SubEquipe 02
 
 | Integrante | Matrícula | GitHub |
 |---|---:|---|
-| A preencher | A preencher | A preencher |
+| Ana Luiza Borba de Abrantes | 200014226 | [@luabrantess](https://github.com/luabrantess) |
+| Enzo Lopes Ferreira | 232002000 | [@lopes061](https://github.com/lopes061) |
+| Pablo Cunha de Jesus | 222014910 | [@Pabloo8](https://github.com/Pabloo8) |
 
 ### SubEquipe 03
 
