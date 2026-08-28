@@ -1,4 +1,6 @@
-# G4 - Projeto Jogo
+# 2026.2-T02-_G4_ProjetoJogo_Entrega_01
+
+## Sobre
 
 Documentação da primeira entrega do Grupo 4 na disciplina de **Arquitetura e Desenho de Software**, com foco em um projeto de jogo voltado à jogabilidade, usabilidade e experiência do usuário.
 
