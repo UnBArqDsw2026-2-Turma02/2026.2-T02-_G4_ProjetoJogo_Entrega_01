@@ -113,11 +113,6 @@ http://localhost:3000
 ## Links Úteis
 
 - [Página inicial da documentação](docs/README.md)
-- [Projeto e temas do período](docs/Projeto/Projeto.md)
-- [Desenho de Software - Base](docs/Base/1.Base.md)
-- [Relatório da SubEquipe 01](docs/Base/Relatórios/1.1.1.SubEquipe_01.md)
-- [Relatório da SubEquipe 02](docs/Base/Relatórios/1.1.2.SubEquipe_02.md)
 - [Relatório da SubEquipe 03](docs/Base/Relatórios/1.1.3.SubEquipe_03.md)
-- [Participações da entrega](docs/Base/1.2.ParticipacoesBase.md)
-- [Iniciativas extras](docs/Base/1.3.IniciativasExtras.md)
+- [Evidências da SubEquipe 03](docs/Base/Evidências/1.1.3.SubEquipe_03.md)
 - [Commits da branch docs/subequipe03](https://github.com/UnBArqDsw2026-2-Turma02/2026.2-T02-_G4_ProjetoJogo_Entrega_01/commits/docs/subequipe03/)

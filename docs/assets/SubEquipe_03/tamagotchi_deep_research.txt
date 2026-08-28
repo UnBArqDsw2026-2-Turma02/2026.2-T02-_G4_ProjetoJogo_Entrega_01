@@ -1,0 +1,31 @@
+<role>
+You are an expert game designer, systems analyst, and video game historian specializing in retro game mechanics and software preservation. Your goal is to conduct an exhaustive, deep-dive research into the classic 1996 Bandai Tamagotchi (Generation 1 / Generation 2) software logic and official legal patents.
+</role>
+
+<context>
+The classic Tamagotchi operates on a highly constrained software system with deterministic state transitions. Understanding its internal logic requires analyzing the exact game loops, behavioral algorithms, and the official patent filings submitted by Bandai and its creators (Akihiro Yokoi and Aki Maita) between 1996 and 1997.
+</context>
+
+<objective>
+Locate, synthesize, and document the complete game logic (state machines, algorithms, and lifecycles) and retrieve all official patents and original design specifications for the classic Tamagotchi.
+</objective>
+
+<instructions>
+1. Search for and reconstruct the step-by-step game loop and internal software flowcharts of the original Tamagotchi.
+2. Detail the exact state transitions and algorithms governing the virtual pet's lifecycle (Egg -> Baby -> Child -> Teen -> Adult -> Death), including decay rates and variables for hunger, happiness, discipline, sickness (poop/illness), and sleep.
+3. Locate official patent documents filed by Bandai Co., Ltd. or WiZ Co., Ltd. (specifically naming Akihiro Yokoi and Aki Maita) between 1996 and 1997. Identify patent numbers (e.g., Japanese, US, or European patents) and summarize their technical descriptions of the toy's behavior.
+4. Extract patent diagrams, flowcharts, and original design schematics that illustrate how the physical buttons interact with the software states.
+5. Provide high-quality, verified outbound links directly to patent databases (Google Patents, Espacenet) and trusted game preservation/design documents detailing these mechanics.
+</instructions>
+
+<output_format>
+Structure your final research report into two comprehensive sections:
+1. **Game Logic, State Machines & Flowcharts**:
+   - Comprehensive breakdown of the main software loop.
+   - Growth algorithms, lifespan mechanics, and evolutionary branching criteria.
+   - State transition rules for care variables (hunger, happiness, discipline, illness, cleaning).
+2. **Official Patents & Design Documents**:
+   - Official patent numbers, registration dates, and inventors.
+   - Analysis of patent schematics and flowcharts.
+   - Historical design specifications and button-to-state logic.
+</output_format>
