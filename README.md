@@ -1,31 +1,119 @@
-# RepositorioTemplate
+# G4 - Projeto Jogo
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+Documentação da primeira entrega do Grupo 4 na disciplina de **Arquitetura e Desenho de Software**, com foco em um projeto de jogo voltado à jogabilidade, usabilidade e experiência do usuário.
 
-## Introdução
+O projeto proposto pela equipe é uma aplicação inspirada em Tamagotchi, com estética pixel art, que combina **pet virtual**, **Pomodoro** e **tracker de hábitos**. A ideia central é relacionar as ações do usuário, como sessões de foco, ingestão de água e acompanhamento de hábitos, ao estado e à evolução de um pet virtual.
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+## Entrega 01
 
-## Tecnologia
+Esta entrega reúne artefatos de base para compreensão do domínio, organização das ideias iniciais e representação dos fluxos principais do sistema.
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+### Focos Trabalhados
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
+| Foco | Descrição | Artefatos |
+|---|---|---|
+| FOCO_01 | Artefatos generalistas e NFR Framework | Mapa Mental ou Rich Picture e SIG/NFR |
+| FOCO_02 | Engenharia Reversa e Modelagem BPMN | Processo de Engenharia Reversa e modelo BPMN |
+| FOCO_03 | IA Generativa | Reflexões sobre uso, apoio e limitações da IA Generativa |
+
+## Subgrupos
+
+A equipe está organizada em três subgrupos. Cada subgrupo possui um relatório próprio, com metodologia, participantes, artefatos, decisões, versionamentos e reflexões sobre o uso de IA Generativa.
+
+| Subgrupo | Relatório | Escopo |
+|---|---|---|
+| SubEquipe 01 | [Acessar relatório](docs/Base/Relatórios/1.1.1.SubEquipe_01.md) | Artefatos generalistas, NFR Framework, Engenharia Reversa, BPMN e IA Generativa |
+| SubEquipe 02 | [Acessar relatório](docs/Base/Relatórios/1.1.2.SubEquipe_02.md) | Artefatos generalistas, NFR Framework, Engenharia Reversa, BPMN e IA Generativa |
+| SubEquipe 03 | [Acessar relatório](docs/Base/Relatórios/1.1.3.SubEquipe_03.md) | Artefatos generalistas, NFR Framework, Engenharia Reversa, BPMN e IA Generativa |
+
+## Integrantes Documentados
+
+### SubEquipe 01
+
+| Integrante | Matrícula | GitHub |
+|---|---:|---|
+| A preencher | A preencher | A preencher |
+
+### SubEquipe 02
+
+| Integrante | Matrícula | GitHub |
+|---|---:|---|
+| A preencher | A preencher | A preencher |
+
+### SubEquipe 03
+
+| Integrante | Matrícula | GitHub |
+|---|---:|---|
+| Eduardo Ribeiro Gomes da Silva | 190027011 | [@EduardoRGS](https://github.com/EduardoRGS) |
+| Gabriel Pereira da Silva | 221008641 | [@bielg7](https://github.com/bielg7) |
+| Guilherme Negreiros Pereira | 232014001 | [@guin409](https://github.com/guin409) |
+| Weverton Rodrigues da Costa Silva | 221022767 | [@vevetin](https://github.com/vevetin) |
+
+## Artefatos por Subgrupo
+
+| Subgrupo | Artefato | Objetivo | Link |
+|---|---|---|---|
+| SubEquipe 01 | Relatório da SubEquipe 01 | Consolidar metodologia, decisões, artefatos e versionamento da entrega | [Acessar relatório](docs/Base/Relatórios/1.1.1.SubEquipe_01.md) |
+| SubEquipe 02 | Relatório da SubEquipe 02 | Consolidar metodologia, decisões, artefatos e versionamento da entrega | [Acessar relatório](docs/Base/Relatórios/1.1.2.SubEquipe_02.md) |
+| SubEquipe 03 | Relatório da SubEquipe 03 | Consolidar metodologia, decisões, artefatos e versionamento da entrega | [Acessar relatório](docs/Base/Relatórios/1.1.3.SubEquipe_03.md) |
+| Todas | Participações da entrega | Registrar contribuições individuais e comprobatórios de participação | [Acessar participações](docs/Base/1.2.ParticipacoesBase.md) |
+| Todas | Iniciativas extras | Registrar entregas, materiais ou evidências adicionais produzidas pela equipe | [Acessar iniciativas extras](docs/Base/1.3.IniciativasExtras.md) |
+
+## Estrutura da Documentação
+
+```text
+docs/
++-- Base/
+|   +-- Relatórios/
+|   |   +-- 1.1.1.SubEquipe_01.md
+|   |   +-- 1.1.2.SubEquipe_02.md
+|   |   +-- 1.1.3.SubEquipe_03.md
+|   +-- 1.Base.md
+|   +-- 1.2.ParticipacoesBase.md
+|   +-- 1.3.IniciativasExtras.md
++-- Projeto/
+|   +-- Projeto.md
++-- index.html
++-- README.md
++-- _sidebar.md
 ```
 
-### Instalando o docsify
+## Como Executar Localmente
 
-Execute o comando:
+A documentação utiliza [Docsify](https://docsify.js.org/) para renderizar as páginas Markdown.
+
+Instale o Docsify CLI:
 
 ```shell
 npm i docsify-cli -g
 ```
 
-### Executando localmente
-
-Para iniciar o site localmente, utilize o comando:
+Execute o site localmente:
 
 ```shell
 docsify serve ./docs
 ```
+
+Também é possível servir a pasta `docs` com Python:
+
+```shell
+python -m http.server 3000 -d docs
+```
+
+Depois, acesse:
+
+```text
+http://localhost:3000
+```
+
+## Links Úteis
+
+- [Página inicial da documentação](docs/README.md)
+- [Projeto e temas do período](docs/Projeto/Projeto.md)
+- [Desenho de Software - Base](docs/Base/1.Base.md)
+- [Relatório da SubEquipe 01](docs/Base/Relatórios/1.1.1.SubEquipe_01.md)
+- [Relatório da SubEquipe 02](docs/Base/Relatórios/1.1.2.SubEquipe_02.md)
+- [Relatório da SubEquipe 03](docs/Base/Relatórios/1.1.3.SubEquipe_03.md)
+- [Participações da entrega](docs/Base/1.2.ParticipacoesBase.md)
+- [Iniciativas extras](docs/Base/1.3.IniciativasExtras.md)
+- [Commits da branch docs/subequipe03](https://github.com/UnBArqDsw2026-2-Turma02/2026.2-T02-_G4_ProjetoJogo_Entrega_01/commits/docs/subequipe03/)
